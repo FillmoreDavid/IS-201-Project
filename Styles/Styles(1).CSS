@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+    background-color: aqua;background-position: top right;
+}
+li{
+    font-size: 14px;
+    font-style: italic;
+}
+ol{
+    font-size: 14 px;
+    font-style: oblique;
+}
+a{
+    color:purple;
+}
